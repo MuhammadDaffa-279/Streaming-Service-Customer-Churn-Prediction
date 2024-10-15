@@ -1,0 +1,4 @@
+Muhammad Daffa
+Batch 007 BSD
+URL Dataset = https://www.kaggle.com/datasets/muhammadshahidazeem/customer-churn-dataset/data?select=customer_churn_dataset-training-master.csv
+URL Deployment = https://huggingface.co/spaces/Muhammad-Daffa/StreamThis-Churn-Customer-Prediction
